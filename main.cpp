@@ -16,6 +16,8 @@ int main() {
 
 
 
+
+
     /*int n;
     int max_pos = 0;
     int min_pos = 0;
